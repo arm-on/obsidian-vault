@@ -9,3 +9,10 @@
 | die Friseurin     | آرایشگر     |
 | die Architektin   | معمار       |
 | die Historikerin  | تاریخ‌دان   |
+| die Sekretärin    | منشی        |
+| die Ärztin        | دکتر        |
+| der Arzt          | دکتر        |
+| der Lehrer        | معلم        |
+| der Verkäufer     | فروشنده     |
+| die Kellnerin     | پیشخدمت     |
+| der Arbeitgeber   | کارفرما     |

@@ -12,6 +12,10 @@
 | Mein Name ist Arman         | My name is Arman.       |
 | Woher kommst du?            | Where do you come from? |
 | Ich komme aus dem Iran.     | I come from Iran.       |
+| Wie alt bist du?            | How old are you?        |
+| Ich bin 30 Jahre alt.       | I'm 30 years old.       |
+| Wo wohnen Sie?              | Where do you live?      |
+| Ich wohne in Teheran.       | I live in Tehran.       |
 | Wie geht's?                 | How's is going?         |
 | Gut, danke!                 | Fine, thanks!           |
 | Auf Wiedersehen.            | See you later. / Bye.   |
@@ -34,4 +38,16 @@
 | Ich arbeite als Journalistin | I work as a journalist.   |
 | Ich bin Informatiker.        | I'm a computer scientist. |
 | Ich arbeite bei X-Media.     | I work at X-Media.        |
+| Was bist du von Beruf?       | شغلت چیه؟                 |
+| Was sind Sie von Beruf?      | شغل شما چیه؟              |
 
+## <font color="#00b0f0">Related Words</font>
+
+
+| Artikel | Word        | Translation |
+| ------- | ----------- | ----------- |
+| der     | Beruf       | شغل         |
+| die     | Herkunft    | اصل و نسب   |
+| der     | Wohnort     | محل زندگی   |
+| das     | Alter       | سن          |
+| der     | Arbeitgeber | کارفرما     |
