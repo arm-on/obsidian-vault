@@ -70,6 +70,7 @@
 | -------------------------------------------------- | ----------------------------------------------------- |
 | Welche Sprachen sprichst du?                       | Which languages do you speak?                         |
 | Ich spreche sehr gut / gut / ein bisschen Deutsch. | I speak (very good) / (good) / (a little bit) German. |
+| Wo in der Schweiz spricht man welche Sprache?      | در کجای سوئیس مردم به چه زبانی صحبت می‌کنند؟          |
 
 
 ## <font color="#00b0f0">Related Words</font>
