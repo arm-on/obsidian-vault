@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Probability/README.md",
+                "file": "PhD Research/Papers/(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Lektion 2"
             }
+          },
+          {
+            "id": "045b680d09e57e16",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,29 +177,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
+    "Untitled.base",
+    "PhD Research/Papers/(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.md",
+    "PhD Research/Overview.md",
+    "PhD Research/Papers",
+    "PhD Research/Data Poisoning",
+    "German Learning/A2/Lektion 1.md",
+    "PhD Research/Data Poisoning/Untitled",
+    "PhD Research/Data Poisoning/Vision/Defense",
+    "PhD Research/Data Poisoning/NLP/Defense",
+    "PhD Research/Data Poisoning/NLP/Attack",
+    "PhD Research/Data Poisoning/Vision/Attack",
+    "PhD Research/Data Poisoning/NLP",
+    "PhD Research/Data Poisoning/Vision",
+    "PhD Research/Data Poisoning",
+    "German Learning/A1/Lektion 1.md",
+    "Daily Journal/Mehr/10.md",
+    "Knowledge/Probability/README.md",
     "Knowledge/Probability/Axioms of Probability (Kolmogorov).md",
     "Knowledge/Probability/Probability Space (a.k.a Probability Triple).md",
-    "Knowledge/Probability/README.md",
     "Knowledge/Probability/Realization of a Random Variable.md",
     "Knowledge/Probability/Trial.md",
     "Knowledge/Probability/Outcome.md",
     "Knowledge/Probability/Sample Space.md",
     "Knowledge/Probability/Event.md",
     "Knowledge/Probability/Random Variable.md",
-    "Knowledge/Probability/Experiment.md",
-    "Knowledge/Probability/Experiment",
-    "German Learning/A1/Lektion 1.md",
-    "Knowledge/Calculus",
-    "Knowledge/Linear Algebra",
-    "Knowledge/Probability",
-    "Knowledge",
-    "German Learning/A1",
-    "German Learning",
-    "PhD Research"
+    "Knowledge/Probability/Experiment.md"
   ]
 }
