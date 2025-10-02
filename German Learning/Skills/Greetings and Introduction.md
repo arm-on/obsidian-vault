@@ -16,6 +16,8 @@
 | Ich bin 30 Jahre alt.       | I'm 30 years old.       |
 | Wo wohnen Sie?              | Where do you live?      |
 | Ich wohne in Teheran.       | I live in Tehran.       |
+| Ich lebe in Köln.           | من در کلن زندگی میکنم.  |
+| Wir leben zusammen.         | ما با هم زندگی می‌کنیم. |
 | Wie geht's?                 | How's is going?         |
 | Gut, danke!                 | Fine, thanks!           |
 | Auf Wiedersehen.            | See you later. / Bye.   |
@@ -33,13 +35,33 @@
 
 ## <font color="#00b0f0">What's your job?</font>
 
-| Phrase                       | Translation               |
-| ---------------------------- | ------------------------- |
-| Ich arbeite als Journalistin | I work as a journalist.   |
-| Ich bin Informatiker.        | I'm a computer scientist. |
-| Ich arbeite bei X-Media.     | I work at X-Media.        |
-| Was bist du von Beruf?       | شغلت چیه؟                 |
-| Was sind Sie von Beruf?      | شغل شما چیه؟              |
+| Phrase                            | Translation               |
+| --------------------------------- | ------------------------- |
+| Ich arbeite als Journalistin      | I work as a journalist.   |
+| Ich bin Informatiker.             | I'm a computer scientist. |
+| Ich arbeite bei X-Media.          | I work at X-Media.        |
+| Was bist du von Beruf?            | شغلت چیه؟                 |
+| Was sind Sie von Beruf?           | شغل شما چیه؟              |
+| Ich habe einen Job als Kellnerin. | من پیشخدمت هستم.          |
+| Was machst du Beruflich?          | شغلت چیه؟                 |
+
+## <font color="#00b0f0">Marital Status</font>
+
+
+| Phrase               | Translation    |
+| -------------------- | -------------- |
+| Ich bin verheiratet. | I'm married.   |
+| Ich bin geschieden.  | I'm separated. |
+| Ich bin Single.      | من سینگلم.     |
+
+## <font color="#00b0f0">Kids</font>
+
+
+| Phrase                 | Translation      |
+| ---------------------- | ---------------- |
+| Ich habe ein Kind.     | من یه بچه دارم.  |
+| Wir haben zwei Kinder. | ما دو بچه داریم. |
+
 
 ## <font color="#00b0f0">Related Words</font>
 
@@ -51,3 +73,5 @@
 | der     | Wohnort     | محل زندگی   |
 | das     | Alter       | سن          |
 | der     | Arbeitgeber | کارفرما     |
+| die     | Ausbildung  | آوسبیلدونگ  |
+| das     | Praktikum   | کارآموزی    |
