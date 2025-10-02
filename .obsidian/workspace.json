@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Probability/README.md",
+                "file": "Knowledge/Probability/Trial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Trial"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
-    "Knowledge/Probability/Event.md",
     "Knowledge/Probability/README.md",
-    "Knowledge/Probability/Random Variable.md",
+    "Knowledge/Probability/Trial.md",
+    "Knowledge/Probability/Outcome.md",
     "Knowledge/Probability/Sample Space.md",
+    "Knowledge/Probability/Event.md",
+    "Knowledge/Probability/Random Variable.md",
     "Knowledge/Probability/Experiment.md",
     "Knowledge/Probability/Experiment",
     "German Learning/A1/Lektion 1.md",
