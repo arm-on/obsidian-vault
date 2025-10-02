@@ -1,4 +1,5 @@
 1. [[Experiment]]
 2. [[Sample Space]]
-3. [[Random Variable]]
-4. 
+3. [[Event]]
+4. [[Random Variable]]
+5. 
