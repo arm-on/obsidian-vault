@@ -43,13 +43,14 @@
 | Was bist du von Beruf?            | شغلت چیه؟                 |
 | Was sind Sie von Beruf?           | شغل شما چیه؟              |
 | Ich habe einen Job als Kellnerin. | من پیشخدمت هستم.          |
-| Was machst du Beruflich?          | شغلت چیه؟                 |
+| Was machst du beruflich?          | شغلت چیه؟                 |
 
 ## <font color="#00b0f0">Marital Status</font>
 
 
 | Phrase               | Translation    |
 | -------------------- | -------------- |
+| der Familienstand    | وضعیت تاهل     |
 | Ich bin verheiratet. | I'm married.   |
 | Ich bin geschieden.  | I'm separated. |
 | Ich bin Single.      | من سینگلم.     |
@@ -62,16 +63,27 @@
 | Ich habe ein Kind.     | من یه بچه دارم.  |
 | Wir haben zwei Kinder. | ما دو بچه داریم. |
 
+## <font color="#00b0f0">Languages</font>
+
+
+| Phrase                                             | Translation                                           |
+| -------------------------------------------------- | ----------------------------------------------------- |
+| Welche Sprachen sprichst du?                       | Which languages do you speak?                         |
+| Ich spreche sehr gut / gut / ein bisschen Deutsch. | I speak (very good) / (good) / (a little bit) German. |
+
 
 ## <font color="#00b0f0">Related Words</font>
 
 
-| Artikel | Word        | Translation |
-| ------- | ----------- | ----------- |
-| der     | Beruf       | شغل         |
-| die     | Herkunft    | اصل و نسب   |
-| der     | Wohnort     | محل زندگی   |
-| das     | Alter       | سن          |
-| der     | Arbeitgeber | کارفرما     |
-| die     | Ausbildung  | آوسبیلدونگ  |
-| das     | Praktikum   | کارآموزی    |
+| Artikel | Word        | Translation  |
+| ------- | ----------- | ------------ |
+| der     | Beruf       | شغل          |
+| die     | Herkunft    | اصل و نسب    |
+| der     | Wohnort     | محل زندگی    |
+| das     | Alter       | سن           |
+| der     | Arbeitgeber | کارفرما      |
+| die     | Ausbildung  | آوسبیلدونگ   |
+| das     | Praktikum   | کارآموزی     |
+| der     | Kollege     | همکار (آقا)  |
+| die     | Kollegin    | همکار (خانم) |
+|         |             |              |

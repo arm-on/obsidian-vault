@@ -15,3 +15,5 @@
 | #ergänzen      |             |            | کامل‌کردن                      | Ergänzen Sie die fehlenden Zahlen. | Fill in the missing numbers.       |              |
 | #verstehen     |             | #akkusativ | فهمیدن / to understand         | Ich verstehe dich.                 | I understand you.                  |              |
 | #machen        |             |            | to do / انجام دادن / درست‌کردن | Was machen Sie beruflich?          | What's your job?                   |              |
+| #sprechen      |             |            | to speak / صحبت‌کردن           | Welche Sprachen sprechen Sie?      | Which languages do you speak?      | #معرفی #زبان |
+|                |             |            |                                |                                    |                                    |              |
