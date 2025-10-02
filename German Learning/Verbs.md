@@ -19,3 +19,4 @@
 | #kosten        |             |            | قیمت‌داشتن                     | Wie viel kostet das?               | اون قیمتش چقدره؟                   | #خرید #پول   |
 | #brauchen      |             |            | نیازداشتن                      | Brauchen Sie Hilfe?                | کمک نیاز دارید؟                    |              |
 | #finden        |             |            | to find sth somehow            | Wie finden Sie die Aufgabe?        | How do you find the exercise?      | #اظهارنظر    |
+| #nennen        |             |            | نام‌بردن                       | Nennen Sie die Wörter.             | کلمه‌ها رو نام ببرید.              |              |
