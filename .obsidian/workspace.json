@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD Research/Overview.md",
+                "file": "PhD Research/Papers/(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch"
             }
           }
         ]
@@ -183,11 +183,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "91c6cf956b837de0",
+  "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
+    "German Learning/A1/Lektion 1.md",
     "PhD Research/Papers/(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.md",
-    "Untitled.base",
     "PhD Research/Overview.md",
+    "Untitled.base",
     "PhD Research/Papers",
     "PhD Research/Data Poisoning",
     "German Learning/A2/Lektion 1.md",
@@ -198,7 +199,6 @@
     "PhD Research/Data Poisoning/Vision/Attack",
     "PhD Research/Data Poisoning/NLP",
     "PhD Research/Data Poisoning/Vision",
-    "German Learning/A1/Lektion 1.md",
     "Daily Journal/Mehr/10.md",
     "Knowledge/Probability/README.md",
     "Knowledge/Probability/Axioms of Probability (Kolmogorov).md",
