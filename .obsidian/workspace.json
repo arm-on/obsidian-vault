@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Probability/Random Variable.md",
+                "file": "Knowledge/Probability/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Variable"
+              "title": "README"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
-    "Knowledge/Probability/README.md",
     "Knowledge/Probability/Random Variable.md",
+    "Knowledge/Probability/README.md",
     "Knowledge/Probability/Sample Space.md",
     "Knowledge/Probability/Experiment.md",
     "Knowledge/Probability/Experiment",
