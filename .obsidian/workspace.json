@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Probability/Trial.md",
+                "file": "Knowledge/Probability/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trial"
+              "title": "README"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
+    "Knowledge/Probability/Realization of a Random Variable.md",
     "Knowledge/Probability/README.md",
     "Knowledge/Probability/Trial.md",
     "Knowledge/Probability/Outcome.md",

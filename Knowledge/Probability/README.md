@@ -3,4 +3,6 @@
 3. [[Sample Space]]
 4. [[Event]]
 5. [[Random Variable]]
-6. 
+6. [[Trial]]
+7. [[Realization of a Random Variable]]
+8. 
