@@ -1,6 +1,9 @@
+## <font color="#00b0f0">Basic Phrases</font>
 
 | Phrase                      | Translation             |
 | --------------------------- | ----------------------- |
+| Begrüßung                   | سلام‌کردن               |
+| Abschied                    | خداحافظی‌کردن           |
 | Hallo! Ich bin Nicole.      | Hello! I'm Nicole.      |
 | Wer bist du?                | Who are you?            |
 | Wer ist das?                | Who is that/this?       |
@@ -23,6 +26,12 @@
 | Sehr gut, danke!            | very good, thanks!      |
 | Ich buchstabiere: V-a-l-... | I spell / من هجی میکنم  |
 | Wie bitte?                  | چی لطفا؟                |
-|                             |                         |
 
+## <font color="#00b0f0">What's your job?</font>
+
+| Phrase                       | Translation               |
+| ---------------------------- | ------------------------- |
+| Ich arbeite als Journalistin | I work as a journalist.   |
+| Ich bin Informatiker.        | I'm a computer scientist. |
+| Ich arbeite bei X-Media.     | I work at X-Media.        |
 
