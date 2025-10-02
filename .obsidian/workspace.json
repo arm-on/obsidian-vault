@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Probability/Sample Space.md",
+                "file": "Knowledge/Probability/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Space"
+              "title": "README"
             }
           }
         ]
@@ -170,9 +170,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3d2e589d63c8b4cc",
+  "active": "91c6cf956b837de0",
   "lastOpenFiles": [
     "Knowledge/Probability/Experiment.md",
+    "Knowledge/Probability/README.md",
     "Knowledge/Probability/Sample Space.md",
     "Knowledge/Probability/Experiment",
     "German Learning/A1/Lektion 1.md",
