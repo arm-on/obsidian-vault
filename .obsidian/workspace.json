@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Learning/Grammar/Sentence Negation.md",
+                "file": "German Learning/Verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sentence Negation"
+              "title": "Verbs"
             }
           }
         ]
@@ -185,17 +185,21 @@
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
+    "German Learning/Adjektiv.md",
+    "German Learning/Skills/Asking for Prices.md",
+    "German Learning/Adverb.md",
+    "German Learning/Vocabulary by Topic/Jobs.md",
+    "German Learning/Verbs.md",
+    "German Learning/Skills/README.md",
+    "German Learning/Vocabulary by Topic/Home Objects.md",
+    "German Learning/Grammar/Sentence Negation.md",
     "German Learning/Vocabulary by Topic/Family Members.md",
     "German Learning/Vocabulary by Topic/Countries and Languages.md",
     "German Learning/Skills/Greetings and Introduction.md",
-    "German Learning/Grammar/Sentence Negation.md",
     "German Learning/Grammar/README.md",
     "German Learning/Grammar",
     "German Learning/Vocabulary by Topic/README.md",
-    "German Learning/Verbs.md",
-    "German Learning/Vocabulary by Topic/Jobs.md",
     "PhD Research/Papers/(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.md",
-    "German Learning/Skills/README.md",
     "German Learning/Vocabulary by Topic",
     "German Learning/Skills/Countries.md",
     "German Learning/Skills",
@@ -216,9 +220,6 @@
     "Knowledge/Probability/Realization of a Random Variable.md",
     "Knowledge/Probability/Trial.md",
     "Knowledge/Probability/Outcome.md",
-    "Knowledge/Probability/Sample Space.md",
-    "Knowledge/Probability/Event.md",
-    "Knowledge/Probability/Random Variable.md",
-    "Knowledge/Probability/Experiment.md"
+    "Knowledge/Probability/Sample Space.md"
   ]
 }

@@ -16,4 +16,6 @@
 | #verstehen     |             | #akkusativ | فهمیدن / to understand         | Ich verstehe dich.                 | I understand you.                  |              |
 | #machen        |             |            | to do / انجام دادن / درست‌کردن | Was machen Sie beruflich?          | What's your job?                   |              |
 | #sprechen      |             |            | to speak / صحبت‌کردن           | Welche Sprachen sprechen Sie?      | Which languages do you speak?      | #معرفی #زبان |
-|                |             |            |                                |                                    |                                    |              |
+| #kosten        |             |            | قیمت‌داشتن                     | Wie viel kostet das?               | اون قیمتش چقدره؟                   | #خرید #پول   |
+| #brauchen      |             |            | نیازداشتن                      | Brauchen Sie Hilfe?                | کمک نیاز دارید؟                    |              |
+| #finden        |             |            | to find sth somehow            | Wie finden Sie die Aufgabe?        | How do you find the exercise?      | #اظهارنظر    |

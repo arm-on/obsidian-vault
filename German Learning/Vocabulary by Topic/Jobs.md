@@ -17,4 +17,4 @@
 | der Verkäufer     | فروشنده            |
 | die Kellnerin     | پیشخدمت            |
 | der Arbeitgeber   | کارفرما            |
-|                   |                    |
+| der Designer      | طراح / دیزاینر     |
