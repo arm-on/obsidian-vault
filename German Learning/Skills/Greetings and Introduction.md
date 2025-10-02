@@ -20,6 +20,7 @@
 | Wir leben zusammen.         | ما با هم زندگی می‌کنیم. |
 | Wie geht's?                 | How's is going?         |
 | Gut, danke!                 | Fine, thanks!           |
+| Vielen Dank.                | خیلی ممنونم.            |
 | Auf Wiedersehen.            | See you later. / Bye.   |
 | Tschüss                     | Bye!                    |
 | Guten Tag                   | Good Day / Hello.       |
