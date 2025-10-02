@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +185,8 @@
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
-    "Untitled.base",
     "PhD Research/Papers/(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.md",
+    "Untitled.base",
     "PhD Research/Overview.md",
     "PhD Research/Papers",
     "PhD Research/Data Poisoning",
@@ -197,7 +198,6 @@
     "PhD Research/Data Poisoning/Vision/Attack",
     "PhD Research/Data Poisoning/NLP",
     "PhD Research/Data Poisoning/Vision",
-    "PhD Research/Data Poisoning",
     "German Learning/A1/Lektion 1.md",
     "Daily Journal/Mehr/10.md",
     "Knowledge/Probability/README.md",
