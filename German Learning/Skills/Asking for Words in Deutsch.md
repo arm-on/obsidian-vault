@@ -5,4 +5,4 @@
 | Entschuldigung, wie heißt das auf Deutsch? | Excuse me, what is that called in German? |
 | Wie schreibt man ...?                      | How does one write ...?                   |
 | Das ist ein/eine ...                       | That's a ...                              |
-|                                            |                                           |
+| Können Sie das auf Englisch erklären?      | Can you explain this in English?          |

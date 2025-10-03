@@ -13,3 +13,5 @@
 | gut       | good        |                                        |                                        |
 | modern    | مدرن        |                                        |                                        |
 | praktisch | کاربردی     | Der Arbeitsplatz am See ist praktisch. | The workplace at the see is practical. |
+| toll      | عالی        | Du kannst wirklich toll kochen.        | You can cook really great.             |
+|           |             |                                        |                                        |
