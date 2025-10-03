@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Learning/Skills/To Order a Product.md",
+                "file": "German Learning/Verbs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Order a Product"
+              "title": "Verbs"
             }
           }
         ],
@@ -200,41 +200,41 @@
   },
   "active": "8d7f2888eccc38a2",
   "lastOpenFiles": [
-    "German Learning/Vocabulary by Topic/Objects.md",
+    "German Learning/Vocabulary by Topic/Jobs.md",
+    "German Learning/Vocabulary by Topic/Places.md",
+    "German Learning/Adjektiv.md",
+    "German Learning/Skills/Talking on the Phone.md",
     "German Learning/Verbs.md",
+    "German Learning/Skills/README.md",
+    "German Learning/Skills/Setting Appointments.md",
+    "German Learning/Vocabulary by Topic/README.md",
     "German Learning/Skills/To Order a Product.md",
     "German Learning/Skills/Greetings and Introduction.md",
-    "German Learning/Skills/README.md",
+    "German Learning/Grammar/Akkusativ.md",
+    "German Learning/Grammar/README.md",
+    "German Learning/Vocabulary by Topic/Objects.md",
     "German Learning/Skills/Shape and Type of Objects.md",
     "German Learning/Vocabulary by Topic/Type of Objects.md",
     "German Learning/Vocabulary by Topic/Shape of Objects.md",
-    "German Learning/Vocabulary by Topic/README.md",
     "German Learning/Vocabulary by Topic/Colors.md",
     "German Learning/Skills/Asking for Words in Deutsch.md",
     "German Learning/Vocabulary by Topic/Countries and Languages.md",
     "German Learning/Vocabulary by Topic/Family Members.md",
     "Daily Journal/Mehr/10.md",
-    "German Learning/Adjektiv.md",
     "German Learning/Skills/Asking for Prices.md",
     "German Learning/Adverb.md",
-    "German Learning/Vocabulary by Topic/Jobs.md",
     "German Learning/Grammar/Sentence Negation.md",
-    "German Learning/Grammar/README.md",
     "German Learning/Grammar",
     "PhD Research/Papers/(2022) Sleeper Agent - Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.md",
     "German Learning/Vocabulary by Topic",
     "German Learning/Skills/Countries.md",
     "German Learning/Skills",
-    "German Learning/A1/Lektion 1.md",
-    "PhD Research/Overview.md",
     "Untitled.base",
     "PhD Research/Papers",
     "PhD Research/Data Poisoning",
-    "German Learning/A2/Lektion 1.md",
     "PhD Research/Data Poisoning/Untitled",
     "PhD Research/Data Poisoning/Vision/Defense",
     "PhD Research/Data Poisoning/NLP/Defense",
-    "PhD Research/Data Poisoning/NLP/Attack",
-    "Knowledge/Probability/README.md"
+    "PhD Research/Data Poisoning/NLP/Attack"
   ]
 }

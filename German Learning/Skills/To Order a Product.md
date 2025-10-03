@@ -10,3 +10,5 @@
 | Preis                             | قیمت                                 |
 | die Bestellung                    | سفارش                                |
 | die Rechnung                      | فاکتور                               |
+| die Briefmarke                    | تمبر پستی                            |
+| das Formular                      | فرم                                  |

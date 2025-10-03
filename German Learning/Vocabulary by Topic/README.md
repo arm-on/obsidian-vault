@@ -5,4 +5,5 @@
 5. [[Type of Objects]]
 6. [[Shape of Objects]]
 7. [[Colors]]
-8. 
+8. [[Places]]
+9. 

@@ -3,6 +3,7 @@
 | -------------- | ----------- | ---------- | ------------------------------ | ---------------------------------- | ------------------------------------ | ----------------- |
 | #sein          |             |            | بودن                           | Ich bin Arman                      | I'm Arman                            | #معرفی            |
 | #sein          | #auf        |            | از جنس ... بودن                | Die Brille ist auf Plastik.        | این عینک از جنس پلاستیکه.            | #جنس #خرید #اشیاء |
+| #sein          | #in         | #dativ     | بودن در جایی                   | Ich bin im Büro.                   | من در دفترکار هستم.                  | #مکان             |
 | #heißen        |             |            | to be called                   | Ich heiße Arman                    | I'm called Arman.                    | #معرفی            |
 | #kommen        | #aus        | #dativ     | to come                        | Woher kommen Sie?                  | Where do you come from?              | #معرفی            |
 | #hören         |             | #akkusativ | گوش‌کردن                       | Hören Sie noch einmal.             | یک بار دیگه گوش کنید.                |                   |
@@ -13,6 +14,7 @@
 | #denken        |             |            | فکر کردن                       | Ich denke, das ist interessant.    | من فکر میکنم اون جذابه.              | #اظهارنظر         |
 | #wohnen        | #in         |            | ساکن‌بودن                      | Ich wohne in Teheran.              | من ساکن تهران هستم.                  | #سکونت #مکان      |
 | #arbeiten      | #als        |            | کارکردن به عنوان               | Ich arbeite als Informatiker.      | I work as a computer scientist.      | #شغل #کار         |
+| #arbeiten      | #bei        |            | کارکردن در (یک شرکت)           | Ich arbeite bei Samsung.           | I work at samsung.                   | #شغل #کار         |
 | #ergänzen      |             |            | کامل‌کردن                      | Ergänzen Sie die fehlenden Zahlen. | Fill in the missing numbers.         |                   |
 | #verstehen     |             | #akkusativ | فهمیدن / to understand         | Ich verstehe dich.                 | I understand you.                    |                   |
 | #machen        |             |            | to do / انجام دادن / درست‌کردن | Was machen Sie beruflich?          | What's your job?                     |                   |
@@ -24,4 +26,5 @@
 | #ansehen       |             |            | تماشاکردن / بررسی‌کردن         | Sehen Sie das Foto an.             | اون تصویر رو نگاه کنید (با دقت).     | #جداشدنی #دیدن    |
 | #ankreuzen     |             |            | علامت‌زدن با ضربدر             | Kreuzen Sie an.                    | ضربدر بزنید.                         | #جداشدنی          |
 | #bestellen     |             |            | سفارش‌دادن                     | Welche Uhr möchten Sie bestellen?  | Which watch would you like to order? | #خرید             |
+| #gehen         | #in         | #akkusativ | رفتن به سمت مقصدی              | Ich gehe ins Kino.                 | من به سینما میرم.                    | #پرکاربرد         |
 |                |             |            |                                |                                    |                                      |                   |

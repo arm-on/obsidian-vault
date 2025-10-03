@@ -18,3 +18,5 @@
 | die Kellnerin     | پیشخدمت            |
 | der Arbeitgeber   | کارفرما            |
 | der Designer      | طراح / دیزاینر     |
+| der Chef          | رئیس / مدیر        |
+|                   |                    |

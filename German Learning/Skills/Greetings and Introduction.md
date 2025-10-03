@@ -45,6 +45,7 @@
 
 | Artikel | Word         | Translation |
 | ------- | ------------ | ----------- |
+| das     | Formular     | فُرم        |
 | die     | Anrede       | جنسیت       |
 | der     | Vorname      | اسم کوچک    |
 | der     | Nachname     | اسم فامیلی  |
