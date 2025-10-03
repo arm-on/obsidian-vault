@@ -41,6 +41,25 @@
 | Noch einmal, bitte.         | یه بار دیگه لطفا                     |
 |                             |                                      |
 
+## <font color="#00b0f0">Filling a Form about Yourself</font>
+
+| Artikel | Word         | Translation |
+| ------- | ------------ | ----------- |
+| die     | Anrede       | جنسیت       |
+| der     | Vorname      | اسم کوچک    |
+| der     | Nachname     | اسم فامیلی  |
+| der     | Familienname | اسم فامیلی  |
+| die     | E-Mail       | ایمیل       |
+| das     | Geburtsdatum | تاریخ تولد  |
+| die     | Straße       | خیابان      |
+| die     | Hausnummer   | پلاک خانه   |
+| die     | Postleitzahl | کد پستی     |
+| der     | Ort          | مکان        |
+| das     | Land         | کشور        |
+| das     | Telefon      | تلفن        |
+| das     | Fax          | فکس         |
+
+
 ## <font color="#00b0f0">What's your job?</font>
 
 | Phrase                            | Translation               |
