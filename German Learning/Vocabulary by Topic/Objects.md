@@ -1,3 +1,4 @@
+## <font color="#00b0f0">Home</font>
 
 | Artikel | Word    | Translation           |
 | ------- | ------- | --------------------- |
@@ -13,3 +14,9 @@
 | der     | Teppich | فرش                   |
 | das     | Möbel   | اسباب و اثاثیه‌ی خانه |
 |         |         |                       |
+## Writing Tools
+
+| Artikel | Word      | Translation |
+| ------- | --------- | ----------- |
+| der     | Bleistift | مداد        |
+|         |           |             |
