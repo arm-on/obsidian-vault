@@ -22,3 +22,7 @@
 ## <font color="#00b0f0">Results</font>
 
 ![[Pasted image 20251003191213.png]]
+
+## <font color="#00b0f0">Original Paper</font>
+
+![[1712.05526v1.pdf]]
