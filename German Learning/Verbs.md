@@ -27,4 +27,4 @@
 | #ankreuzen     |             |            | علامت‌زدن با ضربدر             | Kreuzen Sie an.                    | ضربدر بزنید.                         | #جداشدنی          |
 | #bestellen     |             |            | سفارش‌دادن                     | Welche Uhr möchten Sie bestellen?  | Which watch would you like to order? | #خرید             |
 | #gehen         | #in         | #akkusativ | رفتن به سمت مقصدی              | Ich gehe ins Kino.                 | من به سینما میرم.                    | #پرکاربرد         |
-|                |             |            |                                |                                    |                                      |                   |
+| #drucken       | #in         | #dativ     | چاپ‌کردن در جایی               | Ich drucke im Büro.                | من در دفترکار چاپ میکنم.             |                   |
