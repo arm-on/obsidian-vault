@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD Research/Papers/(2017) Targeted Backdoor Attacks on Deep Learning Systems.md",
+                "file": "PhD Research/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2017) Targeted Backdoor Attacks on Deep Learning Systems"
+              "title": "Overview"
             }
           }
         ]
@@ -183,12 +183,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "91c6cf956b837de0",
+  "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
+    "PhD Research/Papers/(2019) A backdoor attack against LSTM-based text classification systems.md",
+    "PhD Research/Overview.md",
+    "1905.12457v2.pdf",
+    "PhD Research/Papers/(2017) Targeted Backdoor Attacks on Deep Learning Systems.md",
     "Y-Original Papers/1712.05526v1.pdf",
     "Y-Original Papers",
-    "PhD Research/Papers/(2017) Targeted Backdoor Attacks on Deep Learning Systems.md",
-    "PhD Research/Overview.md",
     "Y-Images/Pasted image 20251003191213.png",
     "Y-Images/Pasted image 20251003191124.png",
     "Y-Images/Pasted image 20251003191054.png",
@@ -222,14 +224,11 @@
     "German Learning/Vocabulary by Topic/Shape of Objects.md",
     "German Learning/Vocabulary by Topic/Colors.md",
     "German Learning/Vocabulary by Topic/Countries and Languages.md",
-    "German Learning/Vocabulary by Topic/Family Members.md",
     "German Learning/Grammar",
     "German Learning/Vocabulary by Topic",
     "German Learning/Skills",
     "Untitled.base",
     "PhD Research/Papers",
-    "PhD Research/Data Poisoning",
-    "PhD Research/Data Poisoning/Untitled",
-    "PhD Research/Data Poisoning/Vision/Defense"
+    "PhD Research/Data Poisoning"
   ]
 }
