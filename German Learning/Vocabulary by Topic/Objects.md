@@ -16,15 +16,19 @@
 | der     | Fotoapparat | دوربین عکاسی          |
 | die     | Uhr         | ساعت                  |
 | die     | Wanduhr     | ساعت دیواری           |
+| der     | Schlüssel   | کلید                  |
 ## <font color="#00b0f0">Writing Tools</font>
 
-| Artikel | Word           | Translation |
-| ------- | -------------- | ----------- |
-| der     | Bleistift      | مداد        |
-| das     | Buch           | کتاب        |
-| der     | Kugelschreiber | خودکار      |
-| der     | Schlüssel      | کلید        |
-|         |                |             |
+| Artikel | Word           | Translation  |
+| ------- | -------------- | ------------ |
+| der     | Bleistift      | مداد         |
+| der     | Stift          | خودکار       |
+| das     | Buch           | کتاب         |
+| der     | Kugelschreiber | خودکار       |
+| der     | Schlüssel      | کلید         |
+| das     | Notizbuch      | دفتر یادداشت |
+| der     | Kalendar       | تقویم        |
+| das     | Papier         | کاغذ         |
 
 ## <font color="#00b0f0">Clothes</font>
 
@@ -49,3 +53,15 @@
 | das     | Feuerzeug   | فندک        |
 | die     | Streichholz | کبریت       |
 | die     | Flasche     | بطری        |
+
+## <font color="#00b0f0">Electronic Devices</font>
+
+| Artikel | Word       | Translation |
+| ------- | ---------- | ----------- |
+| der     | Laptop     | لپ‌تاپ      |
+| das     | Handy      | موبایل      |
+| das     | Telefon    | تلفن        |
+| der     | Drucker    | چاپگر       |
+| der     | Computer   | کامپیوتر    |
+| die     | Maus       | ماوس        |
+| der     | Bildschirm | صفحه نمایش  |

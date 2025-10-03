@@ -9,4 +9,4 @@
 | Menge                             | تعداد                                |
 | Preis                             | قیمت                                 |
 | die Bestellung                    | سفارش                                |
-|                                   |                                      |
+| die Rechnung                      | فاکتور                               |
