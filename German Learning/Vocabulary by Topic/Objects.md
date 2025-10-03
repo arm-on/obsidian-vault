@@ -1,22 +1,24 @@
 ## <font color="#00b0f0">Home</font>
 
-| Artikel | Word        | Translation           |
-| ------- | ----------- | --------------------- |
-| das     | Bett        | تخت                   |
-| das     | Bild        | تابلو، تصویر          |
-| der     | Sessel      | مبل تک نفره           |
-| die     | Lampe       | لامپ                  |
-| der     | Stuhl       | صندلی                 |
-| das     | Sofa        | مبل دونفره (کاناپه)   |
-| die     | Couch       | مبل دونفره (کاناپه)   |
-| der     | Tisch       | میز                   |
-| der     | Schrank     | کمد لباس              |
-| der     | Teppich     | فرش                   |
-| das     | Möbel       | اسباب و اثاثیه‌ی خانه |
-| der     | Fotoapparat | دوربین عکاسی          |
-| die     | Uhr         | ساعت                  |
-| die     | Wanduhr     | ساعت دیواری           |
-| der     | Schlüssel   | کلید                  |
+| Artikel | Word        | Translation               |
+| ------- | ----------- | ------------------------- |
+| das     | Bett        | تخت                       |
+| das     | Bild        | تابلو، تصویر              |
+| der     | Sessel      | مبل تک نفره (صندلی راحتی) |
+| die     | Lampe       | لامپ                      |
+| der     | Stuhl       | صندلی                     |
+| das     | Sofa        | مبل دونفره (کاناپه)       |
+| die     | Couch       | مبل دونفره (کاناپه)       |
+| der     | Tisch       | میز                       |
+| der     | Schrank     | کمد لباس                  |
+| der     | Teppich     | فرش                       |
+| das     | Möbel       | اسباب و اثاثیه‌ی خانه     |
+| der     | Fotoapparat | دوربین عکاسی              |
+| die     | Uhr         | ساعت                      |
+| die     | Wanduhr     | ساعت دیواری               |
+| der     | Schlüssel   | کلید                      |
+| der     | Blumentopf  | گلدان                     |
+| die     | Badewanne   | وان حمام                  |
 ## <font color="#00b0f0">Writing Tools</font>
 
 | Artikel | Word           | Translation  |
@@ -48,11 +50,16 @@
 |         |       |             |
 ## <font color="#00b0f0">Kitchen</font>
 
-| Artikel | Word        | Translation |
-| ------- | ----------- | ----------- |
-| das     | Feuerzeug   | فندک        |
-| die     | Streichholz | کبریت       |
-| die     | Flasche     | بطری        |
+| Artikel | Word          | Translation     |
+| ------- | ------------- | --------------- |
+| das     | Feuerzeug     | فندک            |
+| die     | Streichholz   | کبریت           |
+| die     | Flasche       | بطری            |
+| das     | Spülbecken    | سینک ظرفشویی    |
+| die     | Waschmaschine | ماشین لباس‌شویی |
+| die     | Mikrowelle    | مایکروویو       |
+| der     | Gasherd       | اجاق گاز        |
+| der     | Esstisch      | میز غذاخوری     |
 
 ## <font color="#00b0f0">Electronic Devices</font>
 

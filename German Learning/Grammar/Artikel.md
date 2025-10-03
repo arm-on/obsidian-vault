@@ -89,7 +89,7 @@
 	- das A
 	- das B
 - اسامی که به lein ختم می‌شوند
-	- das Fräulein
+	- das Fraulein
 - اسامی که به chen ختم می‌شوند
 	- das Mädchen
 - اسامی که به um ختم می‌شوند
