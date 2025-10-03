@@ -13,3 +13,7 @@
 | braun      | قهوه‌ای     |
 | dunkelgrün | سبز تیره    |
 | hellgrün   | سبز روشن    |
+| rosa       | صورتی       |
+| violett    | بنفش        |
+| türkis     | فیروزه‌ای   |
+| grau       | خاکستری     |
