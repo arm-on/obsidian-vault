@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PhD Research/Overview.md",
+                "file": "German Learning/Grammar/Verb Conjugation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Verb Conjugation"
             }
           }
         ]
@@ -183,10 +183,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "91c6cf956b837de0",
+  "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
-    "PhD Research/Papers/(2019) A backdoor attack against LSTM-based text classification systems.md",
+    "German Learning/Grammar/README.md",
+    "German Learning/Grammar/Verb Conjugation.md",
     "PhD Research/Overview.md",
+    "PhD Research/Papers/(2019) A backdoor attack against LSTM-based text classification systems.md",
     "Y-Original Papers/1905.12457v2.pdf",
     "PhD Research/Papers/(2017) Targeted Backdoor Attacks on Deep Learning Systems.md",
     "Y-Original Papers/1712.05526v1.pdf",
@@ -217,7 +219,6 @@
     "German Learning/Skills/Setting Appointments.md",
     "German Learning/Skills/To Order a Product.md",
     "German Learning/Grammar/Akkusativ.md",
-    "German Learning/Grammar/README.md",
     "German Learning/Vocabulary by Topic/Objects.md",
     "German Learning/Skills/Shape and Type of Objects.md",
     "German Learning/Vocabulary by Topic/Type of Objects.md",
