@@ -13,6 +13,7 @@
 | -       | Mexiko      | Mexico      |
 | -       | Italien     | Italy       |
 | -       | England     | England     |
+| -       | Indien      | India       |
 ## <font color="#00b0f0">Languages</font>
 
 | Word           | Translation    |

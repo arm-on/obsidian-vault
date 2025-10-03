@@ -1,3 +1,5 @@
 1. [[Greetings and Introduction]]
 2. [[Asking for Prices]]
-3. 
+3. [[Asking for Words in Deutsch]]
+4. [[Shape and Type of Objects]]
+5. 
