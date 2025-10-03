@@ -76,12 +76,13 @@
 ## <font color="#00b0f0">Marital Status</font>
 
 
-| Phrase               | Translation    |
-| -------------------- | -------------- |
-| der Familienstand    | وضعیت تاهل     |
-| Ich bin verheiratet. | I'm married.   |
-| Ich bin geschieden.  | I'm separated. |
-| Ich bin Single.      | من سینگلم.     |
+| Phrase               | Translation          |
+| -------------------- | -------------------- |
+| der Familienstand    | وضعیت تاهل           |
+| Ich bin verheiratet. | I'm married.         |
+| Ich bin geschieden.  | I'm separated.       |
+| Ich bin Single.      | من سینگلم.           |
+| Ich lebe allein.     | من تنها زندگی میکنم. |
 
 ## <font color="#00b0f0">Kids</font>
 

@@ -13,6 +13,7 @@
 | #glauben             |             |            | حدس‌زدن / بر باوری بودن        | Ich glaube, das ist ein P.                   | من حدس میزنم اون یک پی هست.          | #اظهارنظر         |
 | #denken              |             |            | فکر کردن                       | Ich denke, das ist interessant.              | من فکر میکنم اون جذابه.              | #اظهارنظر         |
 | #wohnen              | #in         |            | ساکن‌بودن                      | Ich wohne in Teheran.                        | من ساکن تهران هستم.                  | #سکونت #مکان      |
+| #leben               | #in         |            | زندگی‌کردن                     | Sie leben in Berlin.                         | آن‌ها در برلین زندگی می‌کنند.        | #سکونت #مکان      |
 | #arbeiten            | #als        |            | کارکردن به عنوان               | Ich arbeite als Informatiker.                | I work as a computer scientist.      | #شغل #کار         |
 | #arbeiten            | #bei        |            | کارکردن در (یک شرکت)           | Ich arbeite bei Samsung.                     | I work at samsung.                   | #شغل #کار         |
 | #ergänzen            |             |            | کامل‌کردن                      | Ergänzen Sie die fehlenden Zahlen.           | Fill in the missing numbers.         |                   |
@@ -35,3 +36,4 @@
 | #spielen             |             |            | بازی‌کردن / to play            | Du kannst wirklich sehr gut Gitarre spielen. | You can play guitar really good.     |                   |
 | #sagen               |             |            | گفتن / to say                  | Kannst du das noch einmal sagen?             | Can you say that again?              | #مکالمه           |
 | #singen              |             |            | to sing / آوازخوندن            |                                              |                                      |                   |
+|                      |             |            |                                |                                              |                                      |                   |
