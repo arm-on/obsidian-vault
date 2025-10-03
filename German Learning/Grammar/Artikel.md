@@ -1,0 +1,104 @@
+## <font color="#00b0f0">Der</font>
+- افراد مذکر و مشاغل مردانه
+	- der Mann
+	- der Präsident
+- فصل‌های سال
+	- der Frühling
+	- der Sommer
+	- der Herbst
+- اسامی روزها و ماه‌ها
+	- der Montag
+	- der Januar
+	- der Sonntag
+- انواع بارش
+	- der Regen
+	- der Schnee
+	- der Sturm
+- انواع جهت‌ها
+	- der Norden
+	- der Süden
+	- der Westen
+- برندهای خودرو
+	- der Audi
+	- der BMW
+- اسامی که به ling ختم می‌شوند
+	- der Lehrling
+	- der Zwilling
+- اسامی که به ig ختم می‌شوند
+	- der Honnig
+	- der König
+- اسامی که به ich ختم می‌شوند
+	- der Teppisch
+	- der Pfirsich
+- اسامی که به or ختم می‌شوند
+	- der Motor
+	- der Doktor
+- اسامی که به ant ختم می‌شوند
+	- der Elefant
+	- der Praktikant
+- اسامی که به ent ختم می‌شوند
+	- der Student
+	- der Patient
+- اسامی که به ist ختم می‌شوند
+	- der Journalist
+	- der Pianist
+- اسامی ساخته‌شده از افعال بدون en (نشانه مصدری)
+	- der Lauf (laufen)
+
+## <font color="#00b0f0">Die</font>
+
+- افراد مونث و مشاغل زنانه
+	- die Frau
+	- die Präsidentin
+- اعدادی که به عنوان اسم استفاده می‌شوند
+	- die Eins
+	- die Zwei
+- نام کشتی‌ها، هواپیماها یا موتورسیکلت‌ها
+	- die Titanik
+- اسامی که به ung ختم می‌شوند
+	- die Zeitung (روزنامه)
+	- die Meinung (نظر)
+- اسامی که به schaft ختم می‌شوند
+	- die Freundschaft (دوستی)
+- اسامی که به keit ختم می‌شوند
+	- die Möglichkeit (احتمال)
+	- die Tätigkeit (فعالیت)
+- اسامی که به heit ختم می‌شوند
+	- die Freiheit (آزادی)
+	- die Wahrheit (واقعیت)
+- اسامی که به ion ختم می‌شوند
+	- die Nation
+	- die Diskussion
+- اسامی که به tät ختم می‌شوند
+	- die Universität
+- اسامی که به ik ختم می‌شوند
+	- die Musik
+- اسامی که به e ختم می‌شوند
+	- die Blume (گل)
+	- die Lampe
+- اسامی که به ur ختم می‌شوند
+	- die Natur
+	- die Kultur
+- استثناء: 
+	- das Freulein (دوشیزه)
+	- das Mädchen (دختربچه)
+
+## <font color="#00b0f0">Das</font>
+
+- حروف الفبا
+	- das A
+	- das B
+- اسامی که به lein ختم می‌شوند
+	- das Fräulein
+- اسامی که به chen ختم می‌شوند
+	- das Mädchen
+- اسامی که به um ختم می‌شوند
+	- das Museum
+- اسامی که به ment ختم می‌شوند
+	- das Experiment
+- اسامی که به ma ختم می‌شوند
+	- das Thema
+- اسامی ساخته‌شده از مصدر افعال
+	- das Laufen (laufen)
+- اسامی واردشده از انگلیسی که به ing ختم می‌شوند
+	- das Training

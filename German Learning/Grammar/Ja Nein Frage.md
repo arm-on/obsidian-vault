@@ -1,4 +1,9 @@
-**Formula**: Pronomen + Verb + nicht + Nomen
+**Formula 1**: Verb + Pronomen + nomen + ?
+**Formula 2**: Verb + Pronomen + nicht + nomen + ?
+
+**Antwort**:
+
+Pronomen + Verb + nicht + Nomen
 ## <font color="#00b0f0">Normal Negation</font>
 
 | Phrase              | Answer (+)              | Answer (-)                      |
