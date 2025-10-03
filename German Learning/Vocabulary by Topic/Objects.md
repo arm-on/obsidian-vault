@@ -13,12 +13,9 @@
 | der     | Schrank     | کمد لباس              |
 | der     | Teppich     | فرش                   |
 | das     | Möbel       | اسباب و اثاثیه‌ی خانه |
-| die     | Flasche     | بطری                  |
-| das     | Feuerzeug   | فندک                  |
-| die     | Streichholz | کبریت                 |
 | der     | Fotoapparat | دوربین عکاسی          |
 | die     | Uhr         | ساعت                  |
-|         |             |                       |
+| die     | Wanduhr     | ساعت دیواری           |
 ## <font color="#00b0f0">Writing Tools</font>
 
 | Artikel | Word           | Translation |
@@ -45,3 +42,10 @@
 | ------- | ----- | ----------- |
 | die     | Seife | صابون       |
 |         |       |             |
+## <font color="#00b0f0">Kitchen</font>
+
+| Artikel | Word        | Translation |
+| ------- | ----------- | ----------- |
+| das     | Feuerzeug   | فندک        |
+| die     | Streichholz | کبریت       |
+| die     | Flasche     | بطری        |

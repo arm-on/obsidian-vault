@@ -24,6 +24,7 @@
 | Bitteschön.                 | خواهش میکنم                          |
 | Bitte.                      | خواهش میکنم                          |
 | Gern.                       | خواهش میکنم                          |
+| Kein Problem.               | No Problem. / قابلی نداشت            |
 | Auf Wiedersehen.            | See you later. / Bye.                |
 | Tschüss                     | Bye!                                 |
 | Guten Tag                   | Good Day / Hello.                    |
@@ -38,6 +39,7 @@
 | Um Wiederholung bitten      | درخواست برای تکرارکردن (دوباره گفتن) |
 | Wie bitte?                  | چی لطفا؟                             |
 | Noch einmal, bitte.         | یه بار دیگه لطفا                     |
+|                             |                                      |
 
 ## <font color="#00b0f0">What's your job?</font>
 
