@@ -10,3 +10,15 @@
 
 ![[Pasted image 20251003190654.png]]
 ![[Pasted image 20251003190757.png]]
+![[Pasted image 20251003190950.png]]
+![[Pasted image 20251003191001.png]]
+![[Pasted image 20251003191007.png]]
+![[Pasted image 20251003191012.png]]
+![[Pasted image 20251003191023.png]]
+![[Pasted image 20251003191031.png]]
+![[Pasted image 20251003191054.png]]
+![[Pasted image 20251003191113.png]]
+![[Pasted image 20251003191124.png]]
+## <font color="#00b0f0">Results</font>
+
+![[Pasted image 20251003191213.png]]
