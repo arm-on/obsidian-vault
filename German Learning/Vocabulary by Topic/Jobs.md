@@ -20,4 +20,5 @@
 | der Arbeitgeber   | کارفرما            |
 | der Designer      | طراح / دیزاینر     |
 | der Chef          | رئیس / مدیر        |
-|                   |                    |
+| der Fahrer        | راننده             |
+| die Hausfrau      | خانم خانه‌دار      |
