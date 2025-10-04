@@ -1,0 +1,46 @@
+
+- **<font color="#00b0f0">Dürfen / اجازه‌داشتن</font>**
+	- کاربردها: 
+		- erlaubnis (permission)
+		- verbot (ban)
+		- جملاتی که با kein و nicht منفی شده‌اند.
+	- مثال‌ها:
+		- Ist das erlaubnis?
+		- Polizei Regeln: Man darf nicht rauchen.
+- **<font color="#00b0f0">Können / توانستن - ممکن‌بودن</font>**
+	- کاربردها:
+		- fähigkeit (توانایی)
+		- möglichkeit (امکان‌داشتن برای یک کار)
+		- Bitte höflich (درخواست مودبانه)
+			- Kannst du mir helfen?
+		- um etwas bitten (یه سری جملات پرسشی)
+		- Ist das möglich? 
+		- Talent
+		- Zeit
+		- Sportmachen
+			- Ich kann gut schwimmen.
+		- Gelegenheit (فرصت)
+- **<font color="#00b0f0">Müssen / باید یا ضرورت از طرف خودتون</font>**
+	- کاربرد:
+		- خودتون دارین خودتون رو مجبور میکنین که کاری رو انجام بدین.
+		- Notwendigkeit (ضرورت)
+		- innere Pflicht (اجبار از طرف خودتون)
+			- Ich muss heute früh aufstehen. / من باید امروز زود بیدار بشم
+		- verpflichtung (تعهد)
+		- Arzt (مثلا دکتر میگه فلان کارو باید بکنی)
+		- Wichtig (مهم)
+		- Pflicht (تعهد)
+		- Dringend (urgent)
+- **<font color="#00b0f0">Sollen / باید از طرف دیگران</font>**
+	- کاربرد:
+		- Empfehlung (توصیه)
+		- Pflicht durch andere (اجبار از طرف دیگران)
+		- indirekt Rede (نقل قول غیر مستقیم)
+		- Lehrer
+		- Chef
+		- Eltern
+		- Arzt
+			- Du sollst mehr schlafen, sagt der Arzt.
+	- مثال‌ها:
+		- +: Was hat Man gesagt?
+		- -: der Arzt hat gesagt, du sollst ...
