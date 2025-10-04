@@ -7,7 +7,8 @@
 | der Student       | دانش‌آموز / دانشجو |
 | die Schülerin     | دانش‌آموز          |
 | die Journalistin  | خبرنگار            |
-| die Friseurin     | آرایشگر            |
+| der Friseur       | آرایشگر (آقا)      |
+| die Friseurin     | آرایشگر (خانم)     |
 | die Architektin   | معمار              |
 | die Historikerin  | تاریخ‌دان          |
 | die Sekretärin    | منشی               |

@@ -1,0 +1,58 @@
+In German, we make plural nouns by adding one of the following to the end of their singular form:
+	- en
+	- e
+	- n
+	- er
+	- s
+
+- <font color="#00b0f0">-en / -n</font>
+	- **Maskulins ending with**
+		- **or**
+			- der Doktor / die Doktoren
+		- **ist**
+			- der Pianist / die Pianisten
+		- **ant**
+			- der Praktikant / die Praktikanten
+		- **and**
+			- der Doktorand (دانشجوی دکتری) / die Doktoranden
+		- **ent**
+			- der Präsident / die Präsidenten
+		- **e**
+			- der Junge / die Jungen
+	- **Feminins ending with**
+		- **schaft**
+			- die Freundschaft / die Freundschaften (دوستی‌ها)
+		- **keit**
+			- die Möglichkeit (امکان/قابلیت) / die Möglichkeiten
+		- **heit**
+			- die Freiheit (آزادی) / die Freiheiten
+		- **ik**
+			- die Technik (روش‌/تکنیک) / die Techniken (روش‌ها/تکنیک‌ها)
+		- **ion**
+			- die Nation / die Nationen
+		- **in**
+			- die Lehrerin / die Lehreri<font color="#ff0000">nnen</font>
+			- نکته: در اسم‌های زنانه که به in ختم می‌شوند، n دو تا می‌شود.
+		- **e**
+			- die Lampe / die Lampen
+			- die Blume (گل) / die Blumen
+		- **ung**
+			- die Wohnung (خانه/آپارتمان) / die Wohnungen
+		- **tät**
+			- die Aktivität / die Aktivitäten
+- <font color="#00b0f0">-e</font>
+	- Maskulins ending with
+		- ör
+			- der Frisör / die Frisöre
+		- ling
+			- der Frühling (بهار) / die Frühlinge
+		- ig
+			- der König / die Könige (پادشاهان)
+		- ier
+			- der Offizier (افسر / درجه‌دار نظامی) / die Offiziere
+		- ich
+			- der Pfirsich (هلو) / die Pfirsiche
+		- eur
+			- der Friseur / die Friseure
+	- بسیاری از اسم‌های زنانه تک‌هجایی (یک umlaut به شکل جمع اضافه می‌شود)
+		- die Hand (دست) / die Hände
