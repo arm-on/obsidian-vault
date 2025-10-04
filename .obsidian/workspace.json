@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Learning/Verbs.md",
+                "file": "German Learning/Grammar/Modalverben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verbs"
+              "title": "Modalverben"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
-    "German Learning/Grammar/Modalverben.md",
+    "German Learning/Vocabulary by Topic/Food & Drinks.md",
+    "German Learning/Vocabulary by Topic/README.md",
+    "German Learning/Vocabulary by Topic/Places.md",
+    "German Learning/Vocabulary by Topic/Objects.md",
     "German Learning/Verbs.md",
+    "German Learning/Grammar/Modalverben.md",
     "German Learning/Grammar/README.md",
     "German Learning/Grammar/Nominativ Akkusativ Dativ.md",
     "Daily Journal/Mehr/11.md",
@@ -195,7 +199,6 @@
     "German Learning/Vocabulary by Topic/Body Parts.md",
     "German Learning/Skills/README.md",
     "German Learning/Vocabulary by Topic/Colors.md",
-    "German Learning/Vocabulary by Topic/Objects.md",
     "German Learning/Grammar/Artikel.md",
     "German Learning/Vocabulary by Topic/Family Members.md",
     "German Learning/Grammar/Ja Nein Frage.md",
@@ -205,7 +208,6 @@
     "Y-Images/Pasted image 20251003200636.png",
     "Y-Images/Pasted image 20251003200548.png",
     "Y-Images/Pasted image 20251003200357.png",
-    "German Learning/Vocabulary by Topic/README.md",
     "German Learning/Vocabulary by Topic/Numbers.md",
     "German Learning/Skills/Greetings and Introduction.md",
     "German Learning/Grammar/Verb Conjugation.md",
@@ -223,8 +225,6 @@
     "Y-Images/Pasted image 20251003191135.png",
     "Y-Images",
     "German Learning/Skills/Compliments.md",
-    "German Learning/Adjektiv.md",
-    "German Learning/Skills/Asking for Words in Deutsch.md",
     "German Learning/Grammar",
     "German Learning/Vocabulary by Topic",
     "German Learning/Skills",

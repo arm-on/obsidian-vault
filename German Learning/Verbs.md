@@ -39,3 +39,5 @@
 | #treffen             |             |            | ملاقات‌کردن / meet             | Du triffst deine Kollegin im Restaurant.     | You meet your colleagues at a restaurant. | #ملاقات           |
 | #sollen              |             |            | باید (از طرف دیگران)           | Du sollst mehr schlafen, sagt der Arzt.      | دکتر گفت تو باید بیشتر بخوابی.            | #کمکی #اجبار      |
 | #müssen              |             |            | باید (از طرف خودتون)           | Ich muss heute früh aufstehen.               | من باید امروز زود بیدار بشم.              | #کمکی #اجبار      |
+| #trinken             |             |            | نوشیدن                         | Du musst Wasser trinken.                     | تو باید آب بنوشی.                         | #خوراکی #نوشیدنی  |
+| #wollen              |             |            |                                |                                              |                                           |                   |

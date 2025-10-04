@@ -28,6 +28,7 @@
 			- Ich muss heute früh aufstehen. / من باید امروز زود بیدار بشم
 		- verpflichtung (تعهد)
 		- Arzt (مثلا دکتر میگه فلان کارو باید بکنی)
+			- Du musst Wasser trinken.
 		- Wichtig (مهم)
 		- Pflicht (تعهد)
 		- Dringend (urgent)
@@ -41,6 +42,52 @@
 		- Eltern
 		- Arzt
 			- Du sollst mehr schlafen, sagt der Arzt.
+			- der Arzt hat gesagt, du sollst Wasser trinken.
 	- مثال‌ها:
 		- +: Was hat Man gesagt?
 		- -: der Arzt hat gesagt, du sollst ...
+- **<font color="#00b0f0">Wollen / خواستن</font>**
+	- کاربرد
+		- Absicht (قصد)
+		- Plan (برنامه)
+		- Wille (اراده)
+		- indirekt Hehauptung (ادعای غیرمستقیم)
+		- Was ist dein Ziel? (هدفت چیه؟)
+		- Entscheidung (تصمیم)
+- **<font color="#00b0f0">Mögen / دوست‌داشتن (علاقه)</font>**
+	- کاربرد
+		- vorliebe (علاقه)
+		- sympath (احتمال)
+		- lieblings
+		- sympathisch (دوست‌داشتنی)
+		- دل‌خواستن
+	- مثال‌ها:
+		- Ich mag Pizza. (دلم پیتزا میخواد)
+## نکات
+
+- **تفاوت müssen و sollen**
+	- اگر جمله‌ای که میگی، توصیه به شخصی هست، باید از sollen استفاده کنی. اما اگه بهش دستور میدی، باید از müssen استفاده کنی.
+	- اگه کسی که داره بهت میگه باید آب بخوری، پزشک یا مربی باشه، باید از müssen استفاده کنه. به جز اینا، هرکی بهت یه توصیه‌ای بکنه یا یه اجبار یا نقل قول غیرمستقیم بکنه، باید از sollen استفاده کنی.
+- **تفاوت können و dürfen**
+	- dürfen: اجازه‌داشتن / مجاز‌بودن
+	- können: توانایی فیزیکی / ذهنی ""
+- **تفاوت mögen و möchten**
+	- **mögen**: to like
+		- general preference or liking, usually for nouns (e.g., people, food, things)
+		- used for likes/dislikes and is typically followed by a noun.
+		- Ich mag Kaffee. / I like coffee. - a general statement of liking
+	- **möchten**: would like 
+		- actually is the subjunctive (Konjunktiv II) form of "mögen"
+		- used for polite requests or desires and is usually followed by a verb in the infinitive form.
+		- used to express a polite desire or wish, often followed by an action or infinitive verb.
+		- Ich möchte einen Kaffee trinken. / I would like to drink a coffee. - a polite request or wish
+- **تفاوت möchten و wollen**
+	- **wollen**: خواستن مستقیم
+		- is used when stating clear intentions, plans, or strong desires. It can sound demanding or forceful, especially in social situations.
+		- Ich will Pizza essen. / I want to eat Pizza. (direct/strong)
+	- **möchten**: مودب‌تر و نرم‌تر و دوستانه
+		- is the softened, polite form of wollen
+		- is preferred when making requests or expressing wishes in a courteous way—such as in restaurants or formal communication.
+		- Ich möchte Pizza essen. / I would like to eat Pizza. (polite/softer)
+	- **نکته**: در زمان گذشته، فقط wollen استفاده میشه.
+		- Ich wollte Pizza essen. / I wanted to eat Pizza.
