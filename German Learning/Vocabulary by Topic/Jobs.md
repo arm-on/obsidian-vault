@@ -22,3 +22,5 @@
 | der Chef          | رئیس / مدیر        |
 | der Fahrer        | راننده             |
 | die Hausfrau      | خانم خانه‌دار      |
+| der Komponist     | آهنگ‌ساز           |
+|                   |                    |

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "German Learning/Grammar/Modalverben.md",
+                "file": "German Learning/Skills/Talking about Hobbies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modalverben"
+              "title": "Talking about Hobbies"
+            }
+          },
+          {
+            "id": "da3e3aea7fd371c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "German Learning/Verbs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verbs"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#نوشیدنی",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,19 +199,25 @@
   },
   "active": "3d2e589d63c8b4cc",
   "lastOpenFiles": [
+    "German Learning/Skills/README.md",
+    "German Learning/Skills/Talking about Hobbies.md",
+    "German Learning/Skills/Frequency of Activities.md",
+    "German Learning/Vocabulary by Topic/Places.md",
+    "German Learning/Vocabulary by Topic/Jobs.md",
+    "German Learning/Skills/Daily Activities.md",
+    "German Learning/Verbs.md",
+    "German Learning/Skills/Compliments.md",
+    "German Learning/Skills/How good you are at something.md",
+    "German Learning/Skills/Greetings and Introduction.md",
+    "German Learning/Grammar/Modalverben.md",
     "German Learning/Vocabulary by Topic/Food & Drinks.md",
     "German Learning/Vocabulary by Topic/README.md",
-    "German Learning/Vocabulary by Topic/Places.md",
     "German Learning/Vocabulary by Topic/Objects.md",
-    "German Learning/Verbs.md",
-    "German Learning/Grammar/Modalverben.md",
     "German Learning/Grammar/README.md",
     "German Learning/Grammar/Nominativ Akkusativ Dativ.md",
     "Daily Journal/Mehr/11.md",
-    "German Learning/Vocabulary by Topic/Jobs.md",
     "German Learning/Grammar/Making Plural Nouns.md",
     "German Learning/Vocabulary by Topic/Body Parts.md",
-    "German Learning/Skills/README.md",
     "German Learning/Vocabulary by Topic/Colors.md",
     "German Learning/Grammar/Artikel.md",
     "German Learning/Vocabulary by Topic/Family Members.md",
@@ -209,12 +229,7 @@
     "Y-Images/Pasted image 20251003200548.png",
     "Y-Images/Pasted image 20251003200357.png",
     "German Learning/Vocabulary by Topic/Numbers.md",
-    "German Learning/Skills/Greetings and Introduction.md",
-    "German Learning/Grammar/Verb Conjugation.md",
-    "PhD Research/Overview.md",
-    "PhD Research/Papers/(2019) A backdoor attack against LSTM-based text classification systems.md",
     "Y-Original Papers/1905.12457v2.pdf",
-    "PhD Research/Papers/(2017) Targeted Backdoor Attacks on Deep Learning Systems.md",
     "Y-Original Papers/1712.05526v1.pdf",
     "Y-Original Papers",
     "Y-Images/Pasted image 20251003191213.png",
@@ -224,7 +239,6 @@
     "Y-Images/Pasted image 20251003191113.png",
     "Y-Images/Pasted image 20251003191135.png",
     "Y-Images",
-    "German Learning/Skills/Compliments.md",
     "German Learning/Grammar",
     "German Learning/Vocabulary by Topic",
     "German Learning/Skills",

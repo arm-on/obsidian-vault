@@ -5,7 +5,7 @@
 		- verbot (ban)
 		- جملاتی که با kein و nicht منفی شده‌اند.
 	- مثال‌ها:
-		- Ist das erlaubnis?
+		- Ist das erlaubt? (Is that allowed?)
 		- Polizei Regeln: Man darf nicht rauchen.
 - **<font color="#00b0f0">Können / توانستن - ممکن‌بودن</font>**
 	- کاربردها:

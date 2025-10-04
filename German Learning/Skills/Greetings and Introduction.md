@@ -117,3 +117,21 @@
 | der     | Kollege     | همکار (آقا)  |
 | die     | Kollegin    | همکار (خانم) |
 |         |             |              |
+
+## <font color="#00b0f0">Vorstellen</font>
+
+**Name**: Ich heiße Arman.
+**Herkunft**: Ich komme aus dem Iran. / Ich bin Iraner.
+**Wohnort**: Ich wohne in Teheran.
+**Alter**: Ich bin 30 Jahre alt.
+**Beruf**: Ich arbeite als Informatiker bei Samsung. / Ich studiere Informatik an der Sharif Uni.
+**Familienstand**: Ich bin single.
+**Sprache**: Meine Muttersprache ist Persisch. Ich spreche sehr gut Englisch und ein bisschen Deutsch.
+**Hobby**: Was ist dein Lieblingshobby? Was ist deine Lieblingshobbys?
+**Eltern**: Mein Vater ist ... (Wohnort, Alter, Beruf, Name)
+
+Ich bin Einzelkind (تک‌فرزند).
+
+مثال از خوب توضیح دادن:
+Ich liebe das Buch. Ich gehe 2 mal in der woche ins Bibliothek.
+Mein Lieblingsbuch ist ... . Das macht viel Spaß.

@@ -6,4 +6,8 @@
 6. [[Talking on the Phone]]
 7. [[Setting Appointments]]
 8. [[Compliments]]
-9. 
+9. [[Daily Activities]]
+10. [[How good you are at something]]
+11. [[Frequency of Activities]]
+12. [[Talking about Hobbies]]
+13. 
